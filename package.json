@@ -1,0 +1,23 @@
+{
+  "name": "number-facts",
+  "version": "1.0.0",
+  "description": "Fetch and (beautifully) display facts about numbers.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/solidstatejake/number-facts.git"
+  },
+  "keywords": [
+    "numbers",
+    "facts"
+  ],
+  "author": "Jacob Berg",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/solidstatejake/number-facts/issues"
+  },
+  "homepage": "https://github.com/solidstatejake/number-facts#readme"
+}
